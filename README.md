@@ -1,4 +1,4 @@
-![Test and push to Docker Hub](https://github.com/lexxfin/diplom_project/actions/workflows/foodgram_workflow.yml/badge.svg)
+[//]: # (![Test and push to Docker Hub]&#40;https://github.com/lexxfin/diplom_project/actions/workflows/foodgram_workflow.yml/badge.svg&#41;)
 
 ## Проект Foodgram - сайта с рецептами.
 
